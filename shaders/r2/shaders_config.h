@@ -59,6 +59,9 @@
 #define FG2_LumAmount 1.0h		//1.0h
 #define FG2_GrainSize 2.0h		//1.6h
 
+// Model settings
+#define MDL_Brdf true
+
 // Required defines (Don't touch these)
 #define FXAA_PC 1
 #define FXAA_HLSL_3 1
